@@ -1,4 +1,5 @@
 n=input("enter a number")
-print(nnn)
+print(nn)
+print("hello world")
 
 
