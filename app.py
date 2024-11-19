@@ -1,5 +1,6 @@
 n=input("enter a number")
-print(nn)
+print(n)
 print("hello world")
+print("VVCE")
 
 
